@@ -2,7 +2,10 @@
 
 To use:
 
+
 npm install
+
+
 
 The default links are just gpus, so update the linksArr in links.js with the bestbuy urls you want
 
@@ -29,6 +32,9 @@ As one wise man once said: 'Identity fraud is not a joke, Jim' - Dwight Shrute.
 OR
 
 You can just replace the following highly sensitive information with yours
+
+Finally, run the index.js file;
+#
 
 Want to emphasize again, this is the SLOWEST bot you can use. I built this just to play around with the selenium api. This bot will unlikely get the items you can to get your hands on.
 
