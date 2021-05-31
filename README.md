@@ -40,4 +40,4 @@ Want to emphasize again, this is the SLOWEST bot you can use. I built this just 
 
 HOWEVER...
 
-I do plan on learning more about selenium and will be updating the performance of the bot and possibly use python to multithread when I start learning it.
+I do plan on learning more about selenium and will be updating the performance of the bot, and possibly use python to multithread when I start learning it.
