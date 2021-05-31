@@ -32,7 +32,8 @@ You can just replace the following highly sensitive information with yours
 
 
 
+
 Want to emphasize again, this is the SLOWEST bot you can use. I built this just to play around with the selenium api. This bot will unlikely get the items you can to get your hands on.
 
 HOWEVER...
-I do plan on updating the performance of the bot and possibly use python to multithread when I start learning it.
+I do plan on learning more about selenium and will be updating the performance of the bot and possibly use python to multithread when I start learning it.
